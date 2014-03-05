@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "Drag Tool"
+	"author_name" "TGiFallen"
+	"info" "A simple tool to enable or disable drag on entities, supports duping."
+}
